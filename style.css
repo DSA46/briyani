@@ -1,0 +1,150 @@
+h1{
+    color: brown;
+}
+
+li,ul,h1{
+    display: inline;
+}
+ul{
+    display: inline;
+    margin-left: 55%;
+    
+}
+
+.nav{
+    background-color:yellowgreen;
+    color: aliceblue;
+    padding: 5px;
+}
+li:hover{
+    color: black;
+    cursor:pointer;
+}
+img{
+    display:inline ;
+}
+body{
+    background-image: url("images/eat.webp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment:fixed;
+}
+.search{
+    
+    text-align: center;
+    margin-right: 75%;
+    display: inline-block;
+    
+
+    padding: 30px;
+    }
+#old,button{
+    padding:10px ;
+    
+}
+button{
+    background-color: yellowgreen;
+}
+.para{
+    text-align: left;
+    cursor: pointer;
+}
+.quotes{
+    display: inline-block;
+    color:wheat;
+    font-size:medium;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 80%;
+    margin-top: 2%;
+}
+.details{
+    margin-top: 12%;
+    color:white;
+
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    background-color: black;
+    
+}
+.briyanisearch{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+input{
+    width:60%;
+    padding: 10px;
+
+}
+.box{
+    border-color: yellowgreen;
+    border-width: 3px;
+    border-style:solid;
+    display:inline-block;
+    width:300px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right:5% ;
+
+}
+.bri{
+    width:300px
+}
+.box:hover{
+    background-color: black;
+    color:white
+}
+.new{
+    margin-left: 38%;
+    width:80px
+}
+.new:hover{
+    background-color: red;
+}
+.loginboss{
+    border-color:yellowgreen;
+    border-width:5px;
+    border-style: solid;
+    width:38%;
+    display: inline-block;
+    text-align: center;
+    margin-left:29%;
+    margin-top: 8%;
+    background-color: white;
+}
+.newin{
+    width: 81%;
+}
+.newout{
+    width: 76.3%;
+}
+.newbut{
+    width:81%;
+}
+.newp{
+    text-align: center;
+    cursor: pointer;
+}
+.regform{
+    border-color: yellowgreen;
+    border-width: 5px;
+    border-style: solid;
+    width:45%;
+    text-align: center;
+    margin-left: 27%;
+    margin-top: 7%;
+    background-color:white;
+}
+.newinput{
+    width: 90%;
+}
+.newinp{
+    width: 250px;
+}
+#but{
+    margin-bottom:2% ;
+}
